@@ -19,7 +19,6 @@ body {
 .list:hover::before {
     content: '';
     position: absolute;
-    top: px;
 }
 
 
